@@ -103,11 +103,18 @@
 - dot_five:
   name: v0.5
   date: May 27th, 2021 19:00 UTC
-  description: CFP is open! 
+  description: Self-care, concurrency, and contributions. Let's talk about it in May's RubyGalaxy!
   event_text: Ruby Galaxy May 🌌
   hosts:
     - danny_ramos
     - rachael_wright_munn
   guests:
+    - ben_greenberg
+    - kirk_haines
   talks:
-  upcoming: true
+    - name: Self-Care in Rails
+      abstract: "This past year has been one of the most challenging years in recent memory. The pandemic has taken a toll, including on children. Adults used their professional skills to help make the year a little better for the kids in our lives: Therapists counseled, entertainers delighted, teachers educated... and Rails developers developed! In this talk, I'll share the apps I built on Rails that helped my kids and me cope, celebrate and persevere through the year. In 2020, tech was pivotal in keeping us going, and for my kids, Rails made the year a little more manageable."
+      author: Ben Greenberg
+    - name: Conversations about Concurrency and Contributing
+      abstract: Kirk Haines joins us to talk about his exprience maintaining Ruby and his recent contributions. We'll also be discussing his recent research into Ruby Ractors!
+      author: Kirk Haines
